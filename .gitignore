@@ -13,3 +13,6 @@
 
 # misc
 
+
+# Local Netlify folder
+.netlify

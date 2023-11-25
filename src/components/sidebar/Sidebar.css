@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Comfortaa:400&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Aclonica&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:400&display=swap");
 .sidebar {
   height: 100vh;
   /* margin-top: -50px; */
   width: 100%;
-  background-color: #f2f3f7;
+  background-color: #d9dbe4;
   overflow-y: scroll;
   text-align: center;
 }
@@ -18,7 +18,7 @@
 
 .h1_links {
   text-decoration: none;
-  font-family: 'Aclonica', sans-serif;
+  font-family: "Aclonica", sans-serif;
   color: #000;
   font-size: 32px;
 }
@@ -44,7 +44,7 @@
 .links {
   text-decoration: none;
   /* font-family: 'Quicksand', sans-serif; */
-  font-family: 'Comfortaa', cursive;
+  font-family: "Comfortaa", cursive;
   color: #000;
   font-size: larger;
   line-height: 1.4rem;
@@ -58,7 +58,7 @@
 }
 .fa-lg {
   text-decoration: none;
-  color: red;
+  color: rgba(236, 49, 205, 0.836);
 }
 
 .links:hover {
